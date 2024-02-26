@@ -4,6 +4,7 @@
 ## Technologies Used
 - React.js<br>
 - Next.js<br>
+- TypeScript<br>
 - Tailwind<br>
 - PostgreSQL<br>
 - Supabase<br>
